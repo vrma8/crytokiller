@@ -106,3 +106,12 @@ target/
 *.dylib
 go.sum
 vendor/
+
+# --- Other ---
+*.json
+*.md
+*.txt
+*.log
+*.pdf
+vite.config.js
+
